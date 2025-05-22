@@ -41,8 +41,6 @@ I enjoy building web applications, exploring new tech, and solving real-world pr
 
 ## 📂 Featured Projects
 
-### 🛒 [E-Commerce App](https://github.com/nitishreddy2003/Ecommerce-webapp)
-> A full-featured online shopping platform built with Node.js, Express, MongoDB, and EJS. Includes user auth, cart, and order system.
 
 ### 🧠 [Face Recognition System](https://github.com/nitishreddy2003/Face_Recognition)
 > A face detection and recognition project using Python, OpenCV, and machine learning.

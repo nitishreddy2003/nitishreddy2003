@@ -41,6 +41,8 @@ I enjoy building web applications, exploring new tech, and solving real-world pr
 
 ## 📂 Featured Projects
 
+### 🌍 [WanderCrib - Travel Website](https://github.com/nitishreddy2003/WanderCrib-Travel-Website)
+> A travel accommodation platform inspired by Airbnb. Built using Node.js, Express, MongoDB, and EJS. Features listings, search, reviews, and booking logic.
 
 ### 🧠 [Face Recognition System](https://github.com/nitishreddy2003/Face_Recognition)
 > A face detection and recognition project using Python, OpenCV, and machine learning.
